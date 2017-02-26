@@ -1,0 +1,3 @@
+[submodule "public/fi.sh"]
+	path = public/fi.sh
+	url = https://github.com/hoffa/fi.sh
